@@ -13,4 +13,4 @@ With the usage of **Observer Pattern** components can listen to other components
 It works similar with withdrawal - if all objects will be withdrawn from the shelf, the input of the withdrawal interaction will be unsubscribed.
 
 ## System Graph:
-![System Graph](https://i.imgur.com/IGR3K4f.png)
+![System Graph](https://i.imgur.com/CIPZpMS.png)
